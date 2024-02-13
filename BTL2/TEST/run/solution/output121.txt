@@ -1,0 +1,7764 @@
+MAXSIZE: 1
+LIMITLESS 23 : 2
+LIMITLESS 6 : 3
+HAND: 4
+KOKUSEN: 5
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 6 : 6
+KOKUSEN: 7
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 8
+Result: 795
+HAND: 9
+n
+2
+t
+5
+Q
+3
+h
+HAND: 10
+n
+2
+t
+5
+Q
+3
+h
+HAND: 11
+n
+2
+t
+5
+Q
+3
+h
+CLEAVE 664 : 12
+LIMITLESS 26 : 13
+LAPSE: 14
+Result: 487
+KEITEIKEN 3 : 15
+LAPSE: 16
+Result: 872
+KEITEIKEN 17 : 17
+872-18
+CLEAVE 763 : 18
+LAPSE: 19
+KEITEIKEN 1 : 20
+CLEAVE 165 : 21
+KOKUSEN: 22
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 1
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 547 : 23
+LIMITLESS 14 : 24
+KEITEIKEN 14 : 25
+HAND: 26
+U
+3
+d
+7
+k
+14
+Q
+4
+b
+2
+i
+9
+A
+7
+P
+7
+R
+2
+S
+5
+c
+10
+Z
+10
+q
+8
+E
+10
+e
+4
+h
+8
+x
+4
+B
+16
+s
+16
+L
+19
+m
+12
+z
+19
+F
+12
+f
+6
+o
+19
+r
+6
+u
+12
+I
+6
+V
+24
+H
+14
+O
+25
+y
+KOKUSEN: 27
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 28
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 21 : 29
+CLEAVE 870 : 30
+HAND: 31
+U
+3
+d
+7
+k
+14
+Q
+4
+b
+2
+i
+9
+A
+7
+P
+7
+R
+2
+S
+5
+c
+10
+Z
+10
+q
+8
+E
+10
+e
+4
+h
+8
+x
+4
+B
+16
+s
+16
+L
+19
+m
+12
+z
+19
+F
+12
+f
+6
+o
+19
+r
+6
+u
+12
+I
+6
+V
+24
+H
+14
+O
+25
+y
+LAPSE: 32
+Result: 300
+KEITEIKEN 9 : 33
+300-16
+KOKUSEN: 34
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 18 : 35
+LIMITLESS 24 : 36
+LIMITLESS 28 : 37
+CLEAVE 154 : 38
+LAPSE: 39
+Result: 148
+LAPSE: 40
+Result: 299
+KOKUSEN: 41
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 1
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 42
+Result: 457
+KOKUSEN: 43
+ID: 0 Num: 0
+ID: 1 Num: 1
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 30 : 44
+CLEAVE 53 : 45
+16-148
+KOKUSEN: 46
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 9 : 47
+148-16
+CLEAVE 723 : 48
+KOKUSEN: 49
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 50
+Result: 915
+LAPSE: 51
+Result: 116
+LAPSE: 52
+Result: 67
+KOKUSEN: 53
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 1
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 1
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 437 : 54
+3-116
+LIMITLESS 28 : 55
+KOKUSEN: 56
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 6 : 57
+CLEAVE 383 : 58
+3-116
+LIMITLESS 14 : 59
+CLEAVE 361 : 60
+3-116
+HAND: 61
+c
+6
+h
+12
+x
+6
+L
+28
+o
+4
+w
+8
+I
+4
+f
+2
+s
+16
+t
+2
+A
+4
+B
+2
+G
+8
+P
+2
+S
+4
+V
+2
+X
+CLEAVE 212 : 62
+3-116
+HAND: 63
+c
+6
+h
+12
+x
+6
+L
+28
+o
+4
+w
+8
+I
+4
+f
+2
+s
+16
+t
+2
+A
+4
+B
+2
+G
+8
+P
+2
+S
+4
+V
+2
+X
+KEITEIKEN 6 : 64
+116-3
+KEITEIKEN 2 : 65
+CLEAVE 581 : 66
+LIMITLESS 9 : 67
+KEITEIKEN 11 : 68
+KEITEIKEN 3 : 69
+LIMITLESS 5 : 70
+LIMITLESS 28 : 71
+KOKUSEN: 72
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 9 : 73
+HAND: 74
+c
+6
+h
+12
+x
+6
+L
+28
+o
+4
+w
+8
+I
+4
+f
+2
+s
+16
+t
+2
+A
+4
+B
+2
+G
+8
+P
+2
+S
+4
+V
+2
+X
+HAND: 75
+c
+6
+h
+12
+x
+6
+L
+28
+o
+4
+w
+8
+I
+4
+f
+2
+s
+16
+t
+2
+A
+4
+B
+2
+G
+8
+P
+2
+S
+4
+V
+2
+X
+LAPSE: 76
+Result: 20
+KEITEIKEN 18 : 77
+20-2
+HAND: 78
+U
+2
+V
+5
+g
+12
+O
+7
+w
+4
+D
+28
+L
+4
+X
+8
+a
+2
+e
+4
+i
+2
+j
+16
+l
+2
+n
+4
+r
+2
+u
+8
+H
+2
+I
+4
+R
+2
+T
+LIMITLESS 13 : 79
+HAND: 80
+U
+2
+V
+5
+g
+12
+O
+7
+w
+4
+D
+28
+L
+4
+X
+8
+a
+2
+e
+4
+i
+2
+j
+16
+l
+2
+n
+4
+r
+2
+u
+8
+H
+2
+I
+4
+R
+2
+T
+CLEAVE 980 : 81
+LIMITLESS 20 : 82
+CLEAVE 911 : 83
+HAND: 84
+U
+2
+V
+5
+g
+12
+O
+7
+w
+4
+D
+28
+L
+4
+X
+8
+a
+2
+e
+4
+i
+2
+j
+16
+l
+2
+n
+4
+r
+2
+u
+8
+H
+2
+I
+4
+R
+2
+T
+LIMITLESS 8 : 85
+KEITEIKEN 19 : 86
+CLEAVE 264 : 87
+KEITEIKEN 11 : 88
+KEITEIKEN 12 : 89
+KEITEIKEN 19 : 90
+CLEAVE 754 : 91
+HAND: 92
+U
+2
+V
+5
+g
+12
+O
+7
+w
+4
+D
+28
+L
+4
+X
+8
+a
+2
+e
+4
+i
+2
+j
+16
+l
+2
+n
+4
+r
+2
+u
+8
+H
+2
+I
+4
+R
+2
+T
+KOKUSEN: 93
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 3 : 94
+KOKUSEN: 95
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 507 : 96
+KEITEIKEN 16 : 97
+KEITEIKEN 15 : 98
+CLEAVE 913 : 99
+KEITEIKEN 11 : 100
+LAPSE: 101
+Result: 364
+LAPSE: 102
+Result: 192
+LAPSE: 103
+Result: 34
+LAPSE: 104
+Result: 693
+KOKUSEN: 105
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 1
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 106
+H
+6
+K
+12
+U
+6
+Z
+28
+b
+4
+c
+8
+d
+4
+x
+16
+D
+4
+E
+8
+f
+2
+g
+4
+k
+2
+m
+33
+q
+2
+t
+4
+u
+2
+y
+8
+A
+2
+B
+4
+F
+2
+I
+17
+L
+2
+M
+4
+O
+2
+Q
+9
+s
+9
+V
+2
+X
+5
+l
+LAPSE: 107
+Result: 943
+HAND: 108
+J
+14
+Y
+7
+n
+28
+h
+18
+P
+2
+S
+4
+U
+2
+X
+9
+i
+9
+t
+14
+C
+10
+O
+16
+b
+12
+K
+20
+x
+8
+z
+16
+B
+8
+T
+20
+g
+4
+j
+8
+k
+4
+q
+16
+w
+4
+H
+8
+W
+4
+o
+2
+r
+45
+a
+6
+f
+12
+m
+6
+u
+25
+E
+6
+N
+13
+D
+KEITEIKEN 18 : 109
+364-4
+192-3
+34-16
+KOKUSEN: 110
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 13 : 111
+KOKUSEN: 112
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 21 : 113
+KOKUSEN: 114
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 423 : 115
+CLEAVE 147 : 116
+LAPSE: 117
+Result: 912
+KOKUSEN: 118
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 119
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 120
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 121
+H
+12
+W
+24
+v
+6
+A
+12
+D
+6
+M
+56
+m
+14
+p
+29
+V
+3
+d
+7
+B
+15
+e
+4
+k
+8
+z
+4
+K
+32
+X
+4
+Y
+8
+b
+2
+g
+4
+o
+2
+I
+17
+N
+2
+O
+4
+P
+2
+Q
+9
+y
+9
+S
+2
+T
+5
+r
+CLEAVE 625 : 122
+1-912
+HAND: 123
+H
+12
+W
+24
+v
+6
+A
+12
+D
+6
+M
+56
+m
+14
+p
+29
+V
+3
+d
+7
+B
+15
+e
+4
+k
+8
+z
+4
+K
+32
+X
+4
+Y
+8
+b
+2
+g
+4
+o
+2
+I
+17
+N
+2
+O
+4
+P
+2
+Q
+9
+y
+9
+S
+2
+T
+5
+r
+KEITEIKEN 14 : 124
+912-1
+KOKUSEN: 125
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 126
+H
+12
+W
+24
+v
+6
+A
+12
+D
+6
+M
+56
+m
+14
+p
+29
+V
+3
+d
+7
+B
+15
+e
+4
+k
+8
+z
+4
+K
+32
+X
+4
+Y
+8
+b
+2
+g
+4
+o
+2
+I
+17
+N
+2
+O
+4
+P
+2
+Q
+9
+y
+9
+S
+2
+T
+5
+r
+KOKUSEN: 127
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 128
+Result: 636
+HAND: 129
+T
+2
+X
+5
+B
+13
+d
+2
+f
+4
+g
+2
+t
+8
+z
+2
+I
+4
+L
+2
+N
+HAND: 130
+T
+2
+X
+5
+B
+13
+d
+2
+f
+4
+g
+2
+t
+8
+z
+2
+I
+4
+L
+2
+N
+HAND: 131
+T
+2
+X
+5
+B
+13
+d
+2
+f
+4
+g
+2
+t
+8
+z
+2
+I
+4
+L
+2
+N
+HAND: 132
+T
+2
+X
+5
+B
+13
+d
+2
+f
+4
+g
+2
+t
+8
+z
+2
+I
+4
+L
+2
+N
+LIMITLESS 5 : 133
+KEITEIKEN 14 : 134
+636-10
+LAPSE: 135
+Result: 991
+KOKUSEN: 136
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 1
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 23 : 137
+LAPSE: 138
+Result: 505
+LAPSE: 139
+Result: 387
+CLEAVE 445 : 140
+KOKUSEN: 141
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 1
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 11 : 142
+HAND: 143
+V
+10
+J
+5
+d
+20
+Y
+6
+E
+3
+f
+13
+A
+10
+H
+10
+N
+44
+q
+6
+y
+12
+O
+6
+X
+24
+m
+24
+C
+12
+h
+6
+j
+109
+U
+15
+K
+31
+a
+8
+b
+16
+c
+8
+k
+65
+t
+8
+Q
+16
+R
+8
+S
+34
+l
+4
+n
+8
+o
+4
+B
+18
+r
+10
+w
+KEITEIKEN 1 : 144
+LIMITLESS 28 : 145
+KOKUSEN: 146
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 147
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 148
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 149
+V
+10
+J
+5
+d
+20
+Y
+6
+E
+3
+f
+13
+A
+10
+H
+10
+N
+44
+q
+6
+y
+12
+O
+6
+X
+24
+m
+24
+C
+12
+h
+6
+j
+109
+U
+15
+K
+31
+a
+8
+b
+16
+c
+8
+k
+65
+t
+8
+Q
+16
+R
+8
+S
+34
+l
+4
+n
+8
+o
+4
+B
+18
+r
+10
+w
+LAPSE: 150
+Result: 259
+CLEAVE 716 : 151
+LAPSE: 152
+Result: 30
+KEITEIKEN 1 : 153
+30-12
+CLEAVE 456 : 154
+CLEAVE 987 : 155
+CLEAVE 130 : 156
+LAPSE: 157
+Result: 110
+KEITEIKEN 2 : 158
+110-16
+KEITEIKEN 18 : 159
+LAPSE: 160
+Result: 677
+CLEAVE 345 : 161
+LAPSE: 162
+Result: 535
+LIMITLESS 13 : 163
+259
+677
+KOKUSEN: 164
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 1
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 842 : 165
+KEITEIKEN 9 : 166
+LIMITLESS 13 : 167
+677
+CLEAVE 898 : 168
+KOKUSEN: 169
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 170
+Result: 800
+LAPSE: 171
+Result: 58
+LIMITLESS 6 : 172
+KEITEIKEN 6 : 173
+800-3
+58-2
+LAPSE: 174
+Result: 863
+KEITEIKEN 13 : 175
+HAND: 176
+I
+4
+b
+2
+m
+8
+s
+2
+t
+4
+v
+2
+D
+20
+F
+2
+N
+5
+A
+11
+T
+12
+X
+7
+h
+4
+C
+LAPSE: 177
+Result: 192
+KEITEIKEN 11 : 178
+192-3
+HAND: 179
+Q
+20
+n
+10
+x
+40
+B
+10
+K
+20
+U
+10
+W
+93
+y
+2
+D
+5
+k
+11
+q
+11
+m
+6
+t
+23
+A
+6
+E
+12
+T
+6
+Y
+53
+Z
+6
+M
+3
+a
+14
+L
+8
+b
+4
+c
+30
+f
+4
+r
+8
+C
+4
+F
+16
+G
+4
+H
+8
+J
+4
+g
+2
+h
+LAPSE: 180
+Result: 406
+LAPSE: 181
+Result: 589
+LAPSE: 182
+Result: 82
+KOKUSEN: 183
+ID: 0 Num: 1
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 1
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 184
+q
+4
+G
+8
+M
+4
+Y
+16
+h
+16
+O
+8
+b
+4
+f
+34
+c
+18
+x
+37
+W
+18
+i
+2
+o
+4
+H
+2
+Z
+9
+a
+10
+g
+14
+X
+16
+u
+21
+V
+12
+j
+6
+m
+21
+n
+6
+A
+12
+B
+6
+D
+22
+I
+6
+K
+13
+P
+7
+N
+HAND: 185
+q
+4
+G
+8
+M
+4
+Y
+16
+h
+16
+O
+8
+b
+4
+f
+34
+c
+18
+x
+37
+W
+18
+i
+2
+o
+4
+H
+2
+Z
+9
+a
+10
+g
+14
+X
+16
+u
+21
+V
+12
+j
+6
+m
+21
+n
+6
+A
+12
+B
+6
+D
+22
+I
+6
+K
+13
+P
+7
+N
+KEITEIKEN 2 : 186
+406-8
+82-7
+LAPSE: 187
+Result: 698
+LIMITLESS 7 : 188
+CLEAVE 36 : 189
+15-698
+CLEAVE 911 : 190
+15-698
+LIMITLESS 7 : 191
+KEITEIKEN 3 : 192
+698-15
+KOKUSEN: 193
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 16 : 194
+LIMITLESS 23 : 195
+LIMITLESS 21 : 196
+KEITEIKEN 7 : 197
+LIMITLESS 19 : 198
+LAPSE: 199
+Result: 45
+LAPSE: 200
+Result: 206
+KOKUSEN: 201
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 202
+i
+14
+W
+29
+P
+18
+h
+2
+k
+4
+y
+2
+F
+9
+p
+9
+M
+15
+Z
+11
+c
+16
+z
+12
+j
+6
+m
+31
+G
+8
+r
+4
+x
+16
+B
+4
+C
+8
+K
+4
+Q
+39
+u
+6
+D
+12
+L
+6
+S
+24
+T
+6
+U
+12
+Y
+6
+H
+3
+e
+CLEAVE 552 : 203
+17-206
+CLEAVE 610 : 204
+17-206
+LAPSE: 205
+Result: 777
+LIMITLESS 29 : 206
+CLEAVE 847 : 207
+17-206
+CLEAVE 871 : 208
+17-206
+LIMITLESS 21 : 209
+KOKUSEN: 210
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 1
+ID: 18 Num: 0
+LAPSE: 211
+Result: 928
+KEITEIKEN 14 : 212
+206-17
+928-17
+LAPSE: 213
+Result: 597
+KOKUSEN: 214
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 1
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 215
+F
+8
+J
+16
+Z
+8
+c
+4
+t
+33
+D
+4
+H
+8
+S
+4
+h
+2
+n
+17
+o
+2
+p
+4
+A
+2
+B
+9
+I
+2
+X
+5
+e
+83
+i
+12
+M
+24
+m
+6
+r
+12
+u
+6
+x
+50
+y
+6
+z
+12
+O
+6
+Q
+26
+T
+6
+V
+14
+a
+8
+f
+KEITEIKEN 17 : 216
+KEITEIKEN 14 : 217
+KOKUSEN: 218
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 2 : 219
+KOKUSEN: 220
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 221
+Result: 414
+KEITEIKEN 4 : 222
+414-16
+KOKUSEN: 223
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 224
+O
+3
+e
+2
+v
+7
+z
+2
+A
+4
+D
+2
+F
+LIMITLESS 11 : 225
+LAPSE: 226
+Result: 76
+KOKUSEN: 227
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 728 : 228
+1-76
+HAND: 229
+y
+8
+Y
+16
+l
+4
+m
+8
+n
+4
+t
+32
+D
+4
+E
+8
+I
+4
+L
+16
+S
+4
+b
+2
+d
+8
+j
+2
+x
+4
+P
+2
+X
+74
+O
+19
+s
+10
+W
+42
+K
+23
+g
+12
+z
+68
+R
+12
+Z
+24
+c
+6
+k
+12
+q
+6
+J
+52
+w
+14
+C
+28
+F
+14
+U
+7
+p
+LIMITLESS 6 : 230
+CLEAVE 513 : 231
+1-76
+HAND: 232
+y
+8
+Y
+16
+l
+4
+m
+8
+n
+4
+t
+32
+D
+4
+E
+8
+I
+4
+L
+16
+S
+4
+b
+2
+d
+8
+j
+2
+x
+4
+P
+2
+X
+74
+O
+19
+s
+10
+W
+42
+K
+23
+g
+12
+z
+68
+R
+12
+Z
+24
+c
+6
+k
+12
+q
+6
+J
+52
+w
+14
+C
+28
+F
+14
+U
+7
+p
+LIMITLESS 28 : 233
+HAND: 234
+y
+8
+Y
+16
+l
+4
+m
+8
+n
+4
+t
+32
+D
+4
+E
+8
+I
+4
+L
+16
+S
+4
+b
+2
+d
+8
+j
+2
+x
+4
+P
+2
+X
+74
+O
+19
+s
+10
+W
+42
+K
+23
+g
+12
+z
+68
+R
+12
+Z
+24
+c
+6
+k
+12
+q
+6
+J
+52
+w
+14
+C
+28
+F
+14
+U
+7
+p
+LIMITLESS 22 : 235
+LAPSE: 236
+Result: 1001
+CLEAVE 422 : 237
+1-76
+KEITEIKEN 14 : 238
+76-1
+LAPSE: 239
+Result: 662
+HAND: 240
+t
+6
+x
+12
+G
+6
+O
+26
+k
+14
+n
+60
+K
+14
+Q
+29
+A
+3
+e
+7
+g
+15
+a
+15
+N
+15
+F
+8
+L
+34
+u
+4
+E
+9
+z
+19
+J
+10
+T
+61
+U
+10
+Z
+22
+h
+12
+p
+46
+s
+12
+v
+24
+W
+12
+d
+6
+q
+CLEAVE 823 : 241
+17-662
+LIMITLESS 26 : 242
+LAPSE: 243
+Result: 375
+KOKUSEN: 244
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 1
+ID: 14 Num: 1
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 245
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 4 : 246
+662-17
+HAND: 247
+M
+8
+N
+16
+J
+4
+T
+8
+U
+4
+a
+2
+b
+17
+w
+19
+K
+11
+A
+20
+j
+6
+m
+12
+r
+6
+v
+49
+R
+6
+X
+3
+i
+14
+p
+8
+D
+30
+c
+2
+d
+4
+e
+2
+f
+8
+g
+2
+k
+4
+o
+2
+x
+16
+y
+2
+z
+4
+E
+2
+F
+8
+G
+2
+O
+4
+Q
+2
+W
+KEITEIKEN 10 : 248
+HAND: 249
+M
+8
+N
+16
+J
+4
+T
+8
+U
+4
+a
+2
+b
+17
+w
+19
+K
+11
+A
+20
+j
+6
+m
+12
+r
+6
+v
+49
+R
+6
+X
+3
+i
+14
+p
+8
+D
+30
+c
+2
+d
+4
+e
+2
+f
+8
+g
+2
+k
+4
+o
+2
+x
+16
+y
+2
+z
+4
+E
+2
+F
+8
+G
+2
+O
+4
+Q
+2
+W
+KEITEIKEN 2 : 250
+LAPSE: 251
+Result: 699
+LAPSE: 252
+Result: 964
+LIMITLESS 9 : 253
+CLEAVE 325 : 254
+15-964
+LAPSE: 255
+Result: 246
+LAPSE: 256
+Result: 507
+CLEAVE 713 : 257
+15-964
+19-246
+KOKUSEN: 258
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 1
+ID: 14 Num: 0
+ID: 15 Num: 1
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 259
+a
+6
+q
+12
+A
+6
+G
+24
+I
+6
+R
+12
+S
+6
+X
+54
+M
+4
+N
+8
+b
+2
+m
+4
+C
+2
+F
+18
+i
+10
+j
+14
+l
+10
+u
+15
+Y
+11
+B
+29
+Q
+15
+x
+30
+s
+8
+t
+16
+v
+8
+W
+30
+d
+4
+f
+8
+k
+4
+o
+16
+E
+4
+J
+8
+K
+4
+L
+LIMITLESS 29 : 260
+CLEAVE 825 : 261
+15-964
+19-246
+HAND: 262
+a
+6
+q
+12
+A
+6
+G
+24
+I
+6
+R
+12
+S
+6
+X
+54
+M
+4
+N
+8
+b
+2
+m
+4
+C
+2
+F
+18
+i
+10
+j
+14
+l
+10
+u
+15
+Y
+11
+B
+29
+Q
+15
+x
+30
+s
+8
+t
+16
+v
+8
+W
+30
+d
+4
+f
+8
+k
+4
+o
+16
+E
+4
+J
+8
+K
+4
+L
+KEITEIKEN 9 : 263
+964-15
+246-19
+KOKUSEN: 264
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 11 : 265
+CLEAVE 393 : 266
+KEITEIKEN 15 : 267
+KEITEIKEN 15 : 268
+KEITEIKEN 15 : 269
+HAND: 270
+a
+6
+q
+12
+A
+6
+G
+24
+I
+6
+R
+12
+S
+6
+X
+54
+M
+4
+N
+8
+b
+2
+m
+4
+C
+2
+F
+18
+i
+10
+j
+14
+l
+10
+u
+15
+Y
+11
+B
+29
+Q
+15
+x
+30
+s
+8
+t
+16
+v
+8
+W
+30
+d
+4
+f
+8
+k
+4
+o
+16
+E
+4
+J
+8
+K
+4
+L
+HAND: 271
+a
+6
+q
+12
+A
+6
+G
+24
+I
+6
+R
+12
+S
+6
+X
+54
+M
+4
+N
+8
+b
+2
+m
+4
+C
+2
+F
+18
+i
+10
+j
+14
+l
+10
+u
+15
+Y
+11
+B
+29
+Q
+15
+x
+30
+s
+8
+t
+16
+v
+8
+W
+30
+d
+4
+f
+8
+k
+4
+o
+16
+E
+4
+J
+8
+K
+4
+L
+CLEAVE 382 : 272
+LIMITLESS 10 : 273
+LAPSE: 274
+Result: 182
+LIMITLESS 22 : 275
+LAPSE: 276
+Result: 843
+CLEAVE 980 : 277
+12-182
+LIMITLESS 7 : 278
+LIMITLESS 20 : 279
+KOKUSEN: 280
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 13 : 281
+HAND: 282
+Z
+14
+T
+4
+c
+2
+r
+9
+e
+7
+h
+7
+i
+10
+q
+10
+t
+8
+a
+4
+D
+15
+L
+4
+O
+8
+P
+4
+S
+16
+G
+35
+K
+20
+v
+10
+x
+36
+z
+10
+A
+21
+F
+38
+W
+11
+f
+23
+u
+12
+l
+6
+m
+40
+n
+6
+p
+12
+J
+6
+M
+25
+Q
+6
+V
+13
+j
+CLEAVE 382 : 283
+12-182
+KEITEIKEN 6 : 284
+182-12
+KEITEIKEN 10 : 285
+HAND: 286
+Z
+14
+T
+4
+c
+2
+r
+9
+e
+7
+h
+7
+i
+10
+q
+10
+t
+8
+a
+4
+D
+15
+L
+4
+O
+8
+P
+4
+S
+16
+G
+35
+K
+20
+v
+10
+x
+36
+z
+10
+A
+21
+F
+38
+W
+11
+f
+23
+u
+12
+l
+6
+m
+40
+n
+6
+p
+12
+J
+6
+M
+25
+Q
+6
+V
+13
+j
+CLEAVE 592 : 287
+KOKUSEN: 288
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 289
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 290
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 291
+Result: 591
+LAPSE: 292
+Result: 799
+CLEAVE 594 : 293
+KOKUSEN: 294
+ID: 0 Num: 0
+ID: 1 Num: 1
+ID: 2 Num: 1
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 295
+S
+14
+Z
+3
+n
+7
+i
+11
+p
+11
+v
+23
+F
+23
+u
+12
+P
+23
+X
+12
+d
+6
+g
+58
+j
+6
+D
+13
+m
+27
+z
+29
+q
+8
+E
+4
+G
+16
+N
+4
+U
+8
+f
+2
+y
+4
+J
+2
+O
+35
+V
+19
+b
+10
+C
+37
+I
+10
+L
+21
+R
+11
+h
+KOKUSEN: 296
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 6 : 297
+CLEAVE 765 : 298
+LAPSE: 299
+Result: 674
+CLEAVE 121 : 300
+10-674
+KEITEIKEN 16 : 301
+674-10
+LIMITLESS 24 : 302
+HAND: 303
+Y
+3
+g
+7
+X
+15
+h
+4
+F
+8
+G
+4
+J
+32
+a
+2
+b
+4
+i
+2
+k
+8
+m
+2
+n
+4
+s
+2
+t
+17
+v
+2
+z
+4
+A
+2
+D
+9
+H
+2
+L
+5
+e
+LIMITLESS 12 : 304
+LAPSE: 305
+Result: 639
+LIMITLESS 17 : 306
+LAPSE: 307
+Result: 483
+LAPSE: 308
+Result: 703
+LIMITLESS 9 : 309
+483
+KOKUSEN: 310
+ID: 0 Num: 1
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 1
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 8 : 311
+HAND: 312
+Q
+2
+R
+4
+S
+2
+W
+9
+q
+10
+L
+21
+f
+6
+s
+12
+C
+6
+I
+52
+V
+7
+G
+15
+c
+4
+k
+8
+n
+4
+o
+31
+r
+4
+D
+8
+Y
+4
+a
+2
+g
+16
+h
+2
+u
+4
+v
+2
+w
+8
+B
+2
+F
+4
+H
+2
+J
+LIMITLESS 7 : 313
+LAPSE: 314
+Result: 587
+LIMITLESS 26 : 315
+HAND: 316
+W
+6
+X
+13
+x
+29
+E
+4
+T
+8
+U
+4
+f
+2
+h
+16
+j
+2
+k
+4
+n
+2
+o
+8
+s
+2
+y
+4
+z
+2
+C
+33
+F
+16
+i
+8
+m
+4
+A
+17
+S
+18
+d
+10
+J
+39
+Q
+11
+c
+6
+r
+23
+D
+6
+G
+12
+K
+6
+O
+CLEAVE 330 : 317
+HAND: 318
+W
+6
+X
+13
+x
+29
+E
+4
+T
+8
+U
+4
+f
+2
+h
+16
+j
+2
+k
+4
+n
+2
+o
+8
+s
+2
+y
+4
+z
+2
+C
+33
+F
+16
+i
+8
+m
+4
+A
+17
+S
+18
+d
+10
+J
+39
+Q
+11
+c
+6
+r
+23
+D
+6
+G
+12
+K
+6
+O
+LAPSE: 319
+Result: 311
+HAND: 320
+J
+4
+L
+8
+M
+4
+V
+16
+d
+2
+e
+4
+f
+2
+j
+8
+m
+2
+o
+4
+r
+2
+z
+37
+A
+2
+C
+4
+D
+2
+F
+8
+N
+2
+O
+4
+Q
+2
+T
+21
+X
+2
+Y
+5
+b
+13
+i
+4
+t
+8
+u
+4
+I
+KOKUSEN: 321
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 1
+ID: 18 Num: 0
+LIMITLESS 13 : 322
+HAND: 323
+J
+4
+L
+8
+M
+4
+V
+16
+d
+2
+e
+4
+f
+2
+j
+8
+m
+2
+o
+4
+r
+2
+z
+37
+A
+2
+C
+4
+D
+2
+F
+8
+N
+2
+O
+4
+Q
+2
+T
+21
+X
+2
+Y
+5
+b
+13
+i
+4
+t
+8
+u
+4
+I
+KEITEIKEN 5 : 324
+LAPSE: 325
+Result: 23
+CLEAVE 226 : 326
+KEITEIKEN 4 : 327
+LIMITLESS 15 : 328
+HAND: 329
+E
+23
+o
+6
+p
+12
+q
+6
+x
+27
+U
+15
+i
+8
+m
+60
+r
+8
+t
+16
+C
+8
+D
+32
+R
+8
+v
+4
+O
+16
+Y
+4
+Z
+8
+d
+2
+e
+4
+k
+2
+l
+33
+W
+10
+P
+2
+Q
+5
+b
+8
+N
+8
+c
+6
+j
+17
+s
+2
+y
+4
+K
+2
+L
+9
+I
+9
+J
+HAND: 330
+E
+23
+o
+6
+p
+12
+q
+6
+x
+27
+U
+15
+i
+8
+m
+60
+r
+8
+t
+16
+C
+8
+D
+32
+R
+8
+v
+4
+O
+16
+Y
+4
+Z
+8
+d
+2
+e
+4
+k
+2
+l
+33
+W
+10
+P
+2
+Q
+5
+b
+8
+N
+8
+c
+6
+j
+17
+s
+2
+y
+4
+K
+2
+L
+9
+I
+9
+J
+KEITEIKEN 3 : 331
+HAND: 332
+E
+23
+o
+6
+p
+12
+q
+6
+x
+27
+U
+15
+i
+8
+m
+60
+r
+8
+t
+16
+C
+8
+D
+32
+R
+8
+v
+4
+O
+16
+Y
+4
+Z
+8
+d
+2
+e
+4
+k
+2
+l
+33
+W
+10
+P
+2
+Q
+5
+b
+8
+N
+8
+c
+6
+j
+17
+s
+2
+y
+4
+K
+2
+L
+9
+I
+9
+J
+CLEAVE 407 : 333
+LIMITLESS 18 : 334
+LAPSE: 335
+Result: 3
+KOKUSEN: 336
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 1
+ID: 4 Num: 1
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 337
+S
+4
+f
+2
+k
+8
+w
+2
+y
+4
+z
+2
+D
+16
+X
+10
+N
+2
+O
+5
+l
+8
+A
+8
+o
+6
+s
+43
+c
+10
+F
+21
+Y
+14
+P
+3
+d
+7
+g
+11
+E
+8
+i
+4
+j
+23
+H
+6
+M
+12
+U
+6
+V
+27
+m
+4
+p
+8
+u
+4
+v
+16
+G
+4
+J
+8
+K
+4
+R
+LIMITLESS 8 : 338
+LAPSE: 339
+Result: 738
+KEITEIKEN 6 : 340
+738-17
+LAPSE: 341
+Result: 257
+KEITEIKEN 15 : 342
+KEITEIKEN 9 : 343
+CLEAVE 622 : 344
+LAPSE: 345
+Result: 422
+LIMITLESS 20 : 346
+HAND: 347
+F
+6
+G
+12
+M
+6
+P
+26
+f
+14
+T
+7
+h
+60
+m
+8
+r
+16
+L
+8
+W
+32
+j
+4
+n
+8
+B
+4
+C
+16
+D
+4
+c
+2
+k
+8
+t
+2
+v
+4
+E
+2
+H
+34
+Z
+10
+I
+2
+V
+5
+i
+8
+a
+8
+o
+18
+R
+10
+Y
+19
+d
+20
+S
+12
+q
+6
+w
+LAPSE: 348
+Result: 856
+CLEAVE 384 : 349
+5-422
+2-856
+CLEAVE 772 : 350
+5-422
+2-856
+HAND: 351
+C
+6
+L
+13
+V
+7
+r
+29
+t
+4
+E
+8
+F
+4
+c
+2
+e
+16
+h
+2
+i
+4
+p
+2
+w
+8
+x
+2
+z
+4
+A
+2
+H
+36
+N
+2
+O
+4
+R
+2
+S
+9
+m
+9
+J
+20
+T
+2
+Y
+5
+b
+11
+l
+6
+v
+KEITEIKEN 1 : 352
+422-5
+HAND: 353
+C
+6
+L
+13
+V
+7
+r
+29
+t
+4
+E
+8
+F
+4
+c
+2
+e
+16
+h
+2
+i
+4
+p
+2
+w
+8
+x
+2
+z
+4
+A
+2
+H
+36
+N
+2
+O
+4
+R
+2
+S
+9
+m
+9
+J
+20
+T
+2
+Y
+5
+b
+11
+l
+6
+v
+CLEAVE 434 : 354
+2-856
+CLEAVE 717 : 355
+2-856
+LIMITLESS 27 : 356
+CLEAVE 480 : 357
+2-856
+LIMITLESS 10 : 358
+LIMITLESS 4 : 359
+LAPSE: 360
+Result: 493
+HAND: 361
+u
+4
+G
+8
+H
+4
+J
+16
+X
+4
+Y
+8
+d
+2
+L
+4
+T
+2
+V
+41
+c
+6
+n
+12
+y
+6
+N
+25
+Q
+6
+S
+13
+Z
+7
+f
+4
+p
+KOKUSEN: 362
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 1
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 1
+LAPSE: 363
+Result: 881
+KEITEIKEN 1 : 364
+856-2
+CLEAVE 173 : 365
+KEITEIKEN 6 : 366
+HAND: 367
+W
+28
+i
+4
+q
+8
+A
+4
+c
+2
+k
+17
+o
+14
+M
+14
+a
+10
+e
+14
+p
+10
+v
+27
+N
+10
+U
+21
+Z
+14
+T
+3
+h
+7
+d
+11
+B
+8
+H
+15
+G
+15
+m
+12
+O
+23
+f
+6
+s
+12
+t
+6
+u
+24
+x
+6
+I
+13
+F
+KOKUSEN: 368
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 369
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 1 : 370
+KOKUSEN: 371
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 372
+W
+28
+i
+4
+q
+8
+A
+4
+c
+2
+k
+17
+o
+14
+M
+14
+a
+10
+e
+14
+p
+10
+v
+27
+N
+10
+U
+21
+Z
+14
+T
+3
+h
+7
+d
+11
+B
+8
+H
+15
+G
+15
+m
+12
+O
+23
+f
+6
+s
+12
+t
+6
+u
+24
+x
+6
+I
+13
+F
+KEITEIKEN 7 : 373
+CLEAVE 387 : 374
+LAPSE: 375
+Result: 311
+LAPSE: 376
+Result: 996
+CLEAVE 72 : 377
+9-996
+LIMITLESS 17 : 378
+HAND: 379
+u
+12
+S
+28
+q
+8
+s
+16
+B
+8
+L
+61
+g
+4
+j
+8
+z
+4
+D
+16
+G
+4
+Y
+8
+b
+2
+c
+4
+d
+2
+e
+33
+h
+2
+k
+4
+l
+2
+m
+8
+n
+2
+x
+4
+A
+2
+I
+17
+K
+2
+N
+4
+O
+2
+T
+9
+U
+2
+V
+5
+H
+CLEAVE 84 : 380
+9-996
+KOKUSEN: 381
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 22 : 382
+LAPSE: 383
+Result: 491
+HAND: 384
+O
+6
+T
+12
+X
+6
+Q
+3
+M
+25
+K
+8
+V
+4
+Z
+17
+F
+13
+L
+13
+j
+2
+o
+4
+C
+2
+D
+9
+h
+9
+n
+60
+r
+15
+g
+8
+x
+35
+a
+20
+t
+10
+v
+58
+J
+10
+P
+21
+S
+11
+i
+45
+w
+12
+W
+24
+c
+6
+u
+12
+z
+6
+I
+LAPSE: 385
+Result: 95
+KOKUSEN: 386
+ID: 0 Num: 1
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 1
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 514 : 387
+9-996
+CLEAVE 665 : 388
+9-996
+KEITEIKEN 13 : 389
+996-9
+HAND: 390
+J
+4
+P
+8
+d
+2
+n
+4
+t
+2
+v
+18
+H
+2
+K
+4
+R
+2
+S
+10
+E
+10
+b
+6
+p
+45
+w
+6
+N
+12
+Q
+6
+X
+27
+Z
+3
+g
+7
+L
+15
+x
+4
+B
+8
+C
+4
+G
+KOKUSEN: 391
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 39 : 392
+HAND: 393
+J
+4
+P
+8
+d
+2
+n
+4
+t
+2
+v
+18
+H
+2
+K
+4
+R
+2
+S
+10
+E
+10
+b
+6
+p
+45
+w
+6
+N
+12
+Q
+6
+X
+27
+Z
+3
+g
+7
+L
+15
+x
+4
+B
+8
+C
+4
+G
+KEITEIKEN 8 : 394
+KOKUSEN: 395
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 8 : 396
+KEITEIKEN 3 : 397
+LAPSE: 398
+Result: 26
+LAPSE: 399
+Result: 491
+CLEAVE 666 : 400
+8-26
+LAPSE: 401
+Result: 403
+LIMITLESS 5 : 402
+403
+KEITEIKEN 4 : 403
+26-8
+LIMITLESS 23 : 404
+KOKUSEN: 405
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 1
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 1
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 406
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 407
+Result: 903
+LAPSE: 408
+Result: 111
+LAPSE: 409
+Result: 963
+CLEAVE 594 : 410
+LIMITLESS 13 : 411
+KOKUSEN: 412
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 1
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 1
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 1
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 17 : 413
+CLEAVE 914 : 414
+CLEAVE 919 : 415
+KEITEIKEN 4 : 416
+HAND: 417
+h
+4
+i
+8
+r
+4
+I
+16
+R
+4
+f
+2
+j
+8
+l
+2
+t
+4
+u
+2
+v
+36
+w
+2
+A
+4
+C
+2
+J
+8
+M
+2
+N
+4
+S
+2
+T
+20
+V
+2
+Z
+5
+a
+12
+L
+7
+k
+HAND: 418
+h
+4
+i
+8
+r
+4
+I
+16
+R
+4
+f
+2
+j
+8
+l
+2
+t
+4
+u
+2
+v
+36
+w
+2
+A
+4
+C
+2
+J
+8
+M
+2
+N
+4
+S
+2
+T
+20
+V
+2
+Z
+5
+a
+12
+L
+7
+k
+KOKUSEN: 419
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 420
+Result: 410
+KEITEIKEN 14 : 421
+410-12
+CLEAVE 285 : 422
+HAND: 423
+i
+15
+a
+8
+b
+31
+f
+8
+Y
+16
+h
+4
+r
+8
+s
+4
+v
+70
+H
+4
+I
+8
+V
+4
+j
+2
+k
+16
+o
+2
+p
+4
+t
+2
+K
+8
+M
+2
+O
+4
+P
+2
+S
+39
+x
+11
+n
+6
+u
+23
+D
+6
+E
+12
+N
+6
+Z
+CLEAVE 134 : 424
+LIMITLESS 16 : 425
+KOKUSEN: 426
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 14 : 427
+LIMITLESS 2 : 428
+LIMITLESS 20 : 429
+KOKUSEN: 430
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 431
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 432
+i
+15
+a
+8
+b
+31
+f
+8
+Y
+16
+h
+4
+r
+8
+s
+4
+v
+70
+H
+4
+I
+8
+V
+4
+j
+2
+k
+16
+o
+2
+p
+4
+t
+2
+K
+8
+M
+2
+O
+4
+P
+2
+S
+39
+x
+11
+n
+6
+u
+23
+D
+6
+E
+12
+N
+6
+Z
+KOKUSEN: 433
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 5 : 434
+CLEAVE 229 : 435
+LIMITLESS 1 : 436
+CLEAVE 90 : 437
+LAPSE: 438
+Result: 217
+HAND: 439
+I
+5
+S
+3
+t
+CLEAVE 665 : 440
+LAPSE: 441
+Result: 615
+HAND: 442
+j
+2
+u
+4
+w
+2
+E
+9
+N
+2
+T
+5
+X
+3
+a
+2
+f
+LAPSE: 443
+Result: 447
+KOKUSEN: 444
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 1
+ID: 8 Num: 1
+ID: 9 Num: 0
+ID: 10 Num: 1
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 6 : 445
+KEITEIKEN 19 : 446
+LIMITLESS 9 : 447
+LIMITLESS 22 : 448
+LIMITLESS 4 : 449
+HAND: 450
+B
+6
+F
+13
+E
+28
+T
+3
+e
+7
+A
+15
+W
+8
+X
+62
+i
+4
+G
+8
+I
+4
+O
+16
+P
+4
+a
+2
+b
+8
+c
+2
+m
+4
+o
+2
+p
+34
+u
+2
+v
+4
+y
+2
+z
+8
+J
+2
+K
+4
+R
+2
+S
+18
+h
+10
+s
+20
+l
+12
+H
+KOKUSEN: 451
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 452
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 453
+Result: 541
+LIMITLESS 11 : 454
+LAPSE: 455
+Result: 348
+LAPSE: 456
+Result: 520
+LAPSE: 457
+Result: 216
+KEITEIKEN 14 : 458
+348-7
+520-8
+216-8
+HAND: 459
+H
+16
+t
+8
+B
+32
+y
+10
+D
+2
+L
+5
+I
+8
+m
+8
+v
+16
+K
+8
+M
+16
+S
+4
+Y
+8
+b
+2
+e
+4
+i
+2
+p
+35
+U
+19
+c
+10
+d
+38
+o
+10
+s
+22
+j
+42
+W
+26
+X
+13
+C
+45
+E
+14
+P
+29
+Q
+7
+n
+15
+w
+LAPSE: 460
+Result: 64
+KOKUSEN: 461
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 1
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 462
+Result: 596
+KOKUSEN: 463
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 464
+Result: 417
+CLEAVE 1000 : 465
+8-596
+8-64
+LIMITLESS 27 : 466
+LIMITLESS 1 : 467
+LIMITLESS 3 : 468
+KOKUSEN: 469
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 1
+LIMITLESS 15 : 470
+KOKUSEN: 471
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 472
+Result: 638
+KOKUSEN: 473
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 474
+Result: 128
+CLEAVE 921 : 475
+12-638
+8-596
+8-64
+15-128
+LIMITLESS 21 : 476
+HAND: 477
+V
+8
+g
+2
+o
+4
+p
+2
+s
+10
+m
+6
+E
+12
+t
+2
+u
+4
+L
+2
+M
+8
+R
+2
+U
+4
+Y
+2
+Z
+KOKUSEN: 478
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 158 : 479
+12-638
+8-596
+8-64
+15-128
+LAPSE: 480
+Result: 734
+LAPSE: 481
+Result: 96
+CLEAVE 798 : 482
+12-638
+13-734
+8-596
+8-64
+2-96
+15-128
+CLEAVE 886 : 483
+12-638
+13-734
+8-596
+8-64
+2-96
+15-128
+LIMITLESS 17 : 484
+LAPSE: 485
+Result: 938
+LIMITLESS 26 : 486
+CLEAVE 617 : 487
+12-638
+13-734
+8-938
+8-596
+8-64
+2-96
+15-128
+LIMITLESS 5 : 488
+LIMITLESS 25 : 489
+CLEAVE 497 : 490
+12-638
+13-734
+8-938
+8-596
+8-64
+2-96
+15-128
+LIMITLESS 15 : 491
+HAND: 492
+t
+22
+M
+2
+Y
+5
+k
+11
+g
+11
+s
+6
+u
+17
+d
+18
+J
+6
+V
+13
+K
+25
+P
+4
+T
+8
+j
+2
+p
+4
+w
+2
+B
+17
+C
+13
+S
+14
+c
+10
+I
+14
+L
+10
+W
+57
+i
+8
+F
+16
+N
+8
+Z
+32
+f
+4
+l
+8
+m
+4
+n
+16
+o
+4
+y
+8
+A
+4
+E
+LAPSE: 493
+Result: 223
+LAPSE: 494
+Result: 194
+KOKUSEN: 495
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 1
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 496
+p
+7
+E
+2
+F
+4
+K
+2
+Y
+CLEAVE 118 : 497
+12-638
+13-734
+8-938
+8-596
+8-64
+2-96
+15-128
+5-194
+KEITEIKEN 14 : 498
+638-12
+128-15
+734-13
+96-2
+194-5
+64-8
+596-8
+938-8
+HAND: 499
+p
+7
+E
+2
+F
+4
+K
+2
+Y
+HAND: 500
+p
+7
+E
+2
+F
+4
+K
+2
+Y
+LIMITLESS 22 : 501
+KEITEIKEN 5 : 502
+KOKUSEN: 503
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 504
+Result: 887
+KOKUSEN: 505
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 1
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 6 : 506
+HAND: 507
+V
+4
+h
+2
+m
+8
+w
+2
+B
+4
+H
+2
+I
+19
+M
+2
+N
+5
+f
+11
+p
+6
+s
+48
+R
+6
+X
+13
+S
+3
+j
+7
+L
+29
+W
+8
+l
+4
+o
+16
+y
+4
+E
+8
+F
+4
+G
+LAPSE: 508
+Result: 301
+LIMITLESS 2 : 509
+KEITEIKEN 18 : 510
+LIMITLESS 21 : 511
+LIMITLESS 2 : 512
+LAPSE: 513
+Result: 503
+KOKUSEN: 514
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 1
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 1
+ID: 17 Num: 0
+ID: 18 Num: 0
+LAPSE: 515
+Result: 987
+CLEAVE 973 : 516
+LAPSE: 517
+Result: 918
+KEITEIKEN 17 : 518
+918-7
+HAND: 519
+I
+4
+N
+8
+Y
+4
+v
+2
+K
+17
+O
+2
+Q
+4
+U
+2
+V
+9
+a
+10
+g
+6
+C
+43
+R
+6
+W
+3
+d
+13
+t
+10
+x
+10
+J
+21
+u
+26
+k
+8
+l
+16
+n
+8
+D
+4
+E
+LAPSE: 520
+Result: 621
+LAPSE: 521
+Result: 537
+HAND: 522
+I
+6
+M
+13
+n
+29
+N
+4
+O
+8
+P
+4
+U
+16
+X
+4
+Y
+8
+o
+2
+C
+4
+L
+2
+Q
+36
+E
+20
+T
+37
+b
+10
+g
+21
+z
+39
+D
+14
+V
+3
+f
+7
+w
+11
+K
+11
+l
+4
+x
+8
+A
+4
+H
+23
+q
+23
+s
+12
+a
+6
+e
+23
+h
+6
+j
+12
+t
+6
+u
+HAND: 523
+I
+6
+M
+13
+n
+29
+N
+4
+O
+8
+P
+4
+U
+16
+X
+4
+Y
+8
+o
+2
+C
+4
+L
+2
+Q
+36
+E
+20
+T
+37
+b
+10
+g
+21
+z
+39
+D
+14
+V
+3
+f
+7
+w
+11
+K
+11
+l
+4
+x
+8
+A
+4
+H
+23
+q
+23
+s
+12
+a
+6
+e
+23
+h
+6
+j
+12
+t
+6
+u
+LAPSE: 524
+Result: 809
+LIMITLESS 17 : 525
+HAND: 526
+Z
+3
+B
+7
+G
+4
+H
+15
+S
+4
+a
+2
+d
+8
+g
+2
+m
+4
+u
+2
+x
+35
+z
+2
+C
+4
+M
+2
+N
+8
+O
+2
+P
+4
+T
+2
+X
+20
+c
+6
+k
+12
+J
+6
+L
+LAPSE: 527
+Result: 701
+KOKUSEN: 528
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 1
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 1
+ID: 12 Num: 0
+ID: 13 Num: 1
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 1
+ID: 18 Num: 1
+LIMITLESS 25 : 529
+HAND: 530
+D
+4
+E
+8
+R
+4
+f
+2
+g
+17
+w
+2
+y
+4
+I
+2
+K
+9
+b
+9
+h
+49
+T
+8
+U
+16
+d
+4
+j
+8
+q
+4
+u
+32
+m
+10
+Q
+21
+L
+2
+V
+5
+l
+11
+A
+6
+P
+16
+x
+14
+X
+3
+c
+7
+a
+11
+s
+11
+H
+8
+J
+LIMITLESS 4 : 531
+LIMITLESS 22 : 532
+HAND: 533
+D
+4
+E
+8
+R
+4
+f
+2
+g
+17
+w
+2
+y
+4
+I
+2
+K
+9
+b
+9
+h
+49
+T
+8
+U
+16
+d
+4
+j
+8
+q
+4
+u
+32
+m
+10
+Q
+21
+L
+2
+V
+5
+l
+11
+A
+6
+P
+16
+x
+14
+X
+3
+c
+7
+a
+11
+s
+11
+H
+8
+J
+CLEAVE 460 : 534
+LAPSE: 535
+Result: 734
+CLEAVE 35 : 536
+13-734
+CLEAVE 483 : 537
+13-734
+KEITEIKEN 8 : 538
+734-13
+KEITEIKEN 10 : 539
+CLEAVE 196 : 540
+KEITEIKEN 4 : 541
+KEITEIKEN 13 : 542
+HAND: 543
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+CLEAVE 595 : 544
+HAND: 545
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+KEITEIKEN 6 : 546
+LIMITLESS 5 : 547
+KEITEIKEN 1 : 548
+LIMITLESS 10 : 549
+HAND: 550
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+KEITEIKEN 16 : 551
+CLEAVE 953 : 552
+HAND: 553
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+KEITEIKEN 13 : 554
+LIMITLESS 1 : 555
+KOKUSEN: 556
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 206 : 557
+HAND: 558
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+HAND: 559
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+HAND: 560
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+LIMITLESS 22 : 561
+HAND: 562
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+HAND: 563
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+CLEAVE 862 : 564
+KEITEIKEN 6 : 565
+HAND: 566
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+HAND: 567
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+KOKUSEN: 568
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+HAND: 569
+Z
+10
+F
+2
+K
+5
+a
+8
+b
+8
+D
+18
+R
+10
+W
+18
+Y
+7
+J
+14
+S
+4
+A
+2
+E
+9
+m
+7
+t
+7
+M
+10
+o
+4
+w
+8
+O
+4
+P
+42
+Q
+12
+d
+6
+g
+24
+h
+6
+k
+12
+q
+6
+r
+35
+s
+6
+u
+12
+y
+6
+C
+25
+L
+6
+T
+13
+n
+LAPSE: 570
+Result: 487
+KOKUSEN: 571
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 1
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KOKUSEN: 572
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 11 : 573
+KOKUSEN: 574
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+LIMITLESS 3 : 575
+LIMITLESS 14 : 576
+LIMITLESS 24 : 577
+LAPSE: 578
+Result: 955
+HAND: 579
+U
+14
+A
+7
+n
+30
+p
+16
+J
+64
+C
+8
+z
+4
+H
+16
+I
+4
+K
+8
+b
+2
+c
+4
+m
+2
+v
+34
+Y
+10
+M
+2
+N
+5
+a
+8
+W
+8
+g
+6
+j
+17
+h
+18
+F
+18
+y
+10
+O
+18
+k
+6
+q
+12
+t
+6
+x
+20
+E
+14
+S
+HAND: 580
+U
+14
+A
+7
+n
+30
+p
+16
+J
+64
+C
+8
+z
+4
+H
+16
+I
+4
+K
+8
+b
+2
+c
+4
+m
+2
+v
+34
+Y
+10
+M
+2
+N
+5
+a
+8
+W
+8
+g
+6
+j
+17
+h
+18
+F
+18
+y
+10
+O
+18
+k
+6
+q
+12
+t
+6
+x
+20
+E
+14
+S
+KEITEIKEN 10 : 581
+KOKUSEN: 582
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 1
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 10 : 583
+KOKUSEN: 584
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 704 : 585
+KEITEIKEN 5 : 586
+KOKUSEN: 587
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 410 : 588
+CLEAVE 895 : 589
+CLEAVE 645 : 590
+LIMITLESS 6 : 591
+KEITEIKEN 2 : 592
+LIMITLESS 10 : 593
+KOKUSEN: 594
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+CLEAVE 495 : 595
+CLEAVE 191 : 596
+LIMITLESS 23 : 597
+HAND: 598
+U
+14
+A
+7
+n
+30
+p
+16
+J
+64
+C
+8
+z
+4
+H
+16
+I
+4
+K
+8
+b
+2
+c
+4
+m
+2
+v
+34
+Y
+10
+M
+2
+N
+5
+a
+8
+W
+8
+g
+6
+j
+17
+h
+18
+F
+18
+y
+10
+O
+18
+k
+6
+q
+12
+t
+6
+x
+20
+E
+14
+S
+LAPSE: 599
+Result: 426
+KOKUSEN: 600
+ID: 0 Num: 0
+ID: 1 Num: 0
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+ID: 5 Num: 0
+ID: 6 Num: 0
+ID: 7 Num: 0
+ID: 8 Num: 0
+ID: 9 Num: 0
+ID: 10 Num: 0
+ID: 11 Num: 0
+ID: 12 Num: 0
+ID: 13 Num: 0
+ID: 14 Num: 0
+ID: 15 Num: 0
+ID: 16 Num: 0
+ID: 17 Num: 0
+ID: 18 Num: 0
+KEITEIKEN 2 : 601
+426-9

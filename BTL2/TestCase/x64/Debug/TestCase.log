@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(210,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(222,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(253,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(883,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(915,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CODE\C++\BTL_DSA\BTL2\TestCase\restaurant.cpp(917,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TestCase.vcxproj -> D:\CODE\C++\BTL_DSA\BTL2\TestCase\x64\Debug\TestCase.exe

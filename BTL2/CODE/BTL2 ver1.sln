@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTL2 ver1", "BTL2 ver1.vcxproj", "{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Debug|x64.ActiveCfg = Debug|x64
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Debug|x64.Build.0 = Debug|x64
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Debug|x86.Build.0 = Debug|Win32
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Release|x64.ActiveCfg = Release|x64
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Release|x64.Build.0 = Release|x64
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Release|x86.ActiveCfg = Release|Win32
+		{BE50E235-F9E7-4F8E-9B97-DF6DF43744CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21DB3C5-7C83-40A9-9450-5897BB5CF215}
+	EndGlobalSection
+EndGlobal

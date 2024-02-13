@@ -1,0 +1,203 @@
+MAXSIZE: 1
+LAPSE: 2
+LAPSE: 3
+Result: 316
+LAPSE: 4
+Result: 575
+LAPSE: 5
+Result: 51
+KOKUSEN: 6
+ID: 0 Num: 1
+ID: 1 Num: 1
+ID: 2 Num: 0
+ID: 3 Num: 0
+ID: 4 Num: 0
+LAPSE: 7
+Result: 725
+LAPSE: 8
+Result: 206
+LAPSE: 9
+Result: 831
+LIMITLESS 2 : 10
+831
+LAPSE: 11
+Result: 371
+LAPSE: 12
+Result: 635
+LAPSE: 13
+Result: 873
+LAPSE: 14
+Result: 879
+CLEAVE 2 : 15
+2-206
+2-316
+LAPSE: 16
+Result: 115
+HAND: 17
+e
+2
+f
+4
+g
+2
+h
+8
+i
+2
+m
+4
+o
+2
+p
+16
+q
+2
+w
+4
+C
+2
+L
+8
+M
+2
+Q
+4
+R
+2
+W
+32
+S
+12
+l
+7
+I
+28
+X
+8
+v
+4
+K
+16
+O
+4
+P
+8
+U
+4
+a
+2
+c
+LAPSE: 18
+Result: 367
+LAPSE: 19
+Result: 430
+KOKUSEN: 20
+ID: 0 Num: 1
+ID: 1 Num: 1
+ID: 2 Num: 1
+ID: 3 Num: 1
+ID: 4 Num: 1
+LAPSE: 21
+Result: 959
+KEITEIKEN 2 : 22
+430-1
+316-2
+206-2
+LAPSE: 23
+Result: 28
+HAND: 24
+c
+8
+h
+4
+n
+16
+r
+4
+B
+8
+O
+4
+Z
+32
+e
+2
+f
+4
+j
+2
+k
+8
+l
+2
+s
+4
+u
+2
+v
+16
+C
+2
+E
+4
+F
+2
+K
+8
+L
+2
+R
+4
+T
+2
+X
+LAPSE: 25
+Result: 304
+LAPSE: 26
+Result: 401
+LAPSE: 27
+Result: 982
+HAND: 28
+L
+12
+J
+6
+Z
+3
+j
+14
+R
+8
+t
+4
+x
+31
+a
+2
+b
+4
+f
+2
+g
+8
+h
+2
+k
+4
+p
+2
+z
+17
+C
+2
+F
+4
+N
+2
+O
+9
+W
+2
+X
+5
+n
